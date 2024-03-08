@@ -8,4 +8,4 @@
 
 #### Visualization Techniques: Employed various visualizations including bar charts, pie charts, scatter plots, and more.
 
-#### This project enhanced skills in dashboard development, data analysis, and visualization techniques.
+ This project enhanced skills in dashboard development, data analysis, and visualization techniques.
