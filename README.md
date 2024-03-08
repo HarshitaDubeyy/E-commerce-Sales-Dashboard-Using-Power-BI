@@ -1,4 +1,4 @@
-# *E-commerce-Sales-Dashboard-Using-Power-BI*
+# *E-commerce Sales Dashboard Using Power-BI*
 ## Project Highlights:
 #### - Interactive Dashboard Creation: Designed and implemented an interactive dashboard for online sales data analysis.
 
